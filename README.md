@@ -27,8 +27,7 @@ The ETL code creates a connection to the existing database.  It then opens and p
 1. __README.md__           A introductory and explantory file
 2. __create_tables.py__     A python file containing the code to drop and create the 'sparkify' database and the necessary tables, as specified in 'sql_queries.py'
 3. __sql_queries.py__       A python file containing various string containing SQL queries to drop, create tables, or insert data into tables
-4. __test.ipynb__           A jypiter notebook used to test the results of various operations on the sparkify database
-5. __etl.py__               A python file containing to code used to create the etl pipeline to move the JSON data into the new database
+4. __etl.py__               A python file containing to code used to create the etl pipeline to move the JSON data into the new database
 
 ## How to run the full script
 1. Open the console window and type "python create_tables.py"
