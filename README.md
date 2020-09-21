@@ -53,8 +53,8 @@ Free: 1,229 Paid 5,591
  GROUP BY u.gender, sp.level 
  ORDER BY u.gender,sp.level`
 
-Gender   Level   count
-F        Free     593
-F        Paid    4294
-M        Free     636
-M        Paid    1297
+Female, Free:     593  
+Female, Paid:    4294  
+Male,   Free      636  
+Male,   Paidd    1297  
+
